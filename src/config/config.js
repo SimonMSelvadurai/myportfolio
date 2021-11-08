@@ -23,7 +23,7 @@ export const configuration = {
     ],
   },
   About: {
-    AboutTitle: "About ok",
+    AboutTitle: "About",
     AboutMe1Sec: `I am full stack developer, finished by bootcamp course from Monash University. 
         I have hands on experience with HTML,CSS,JQuery,Bootstrap,
         NodeJS,ExpressJS,MySQL,MongoDB,React.`,
