@@ -6,7 +6,7 @@ export const configuration = {
   },
   Masthead: {
     MastheadTitle: "Simon Selvadurai",
-    Labels: ["JavaScript", "MERN Stack developer", "Frontend Developer"],
+    Labels: ["MERN Full Stack", "Node.js","Express.js","GraphQL", "MongoDB"],
   },
   Portfolio: {
     PortfolioTitle: "my work",
@@ -24,10 +24,13 @@ export const configuration = {
   },
   About: {
     AboutTitle: "About",
-    AboutMe1Sec: `I am full stack developer, finished by bootcamp course from Monash University. 
-        I have hands on experience with HTML,CSS,JQuery,Bootstrap,
-        NodeJS,ExpressJS,MySQL,MongoDB,React.`,
-    AboutMe2Sec: `Portfolio has the list of projects done during the bootcamp!`,
+    AboutMe1Sec: `Hi, I'm Simon!
+    I'm a Full Stack Web Developer based in Melbourne, Australia. 
+    `,
+    AboutMe2Sec: `
+    Monash University Coding Bootcamp in Full Stack Web Technologies.  
+
+    Skills : React, Node.js, Express, MySQL, MongoDB, JavaScript, jQuery, Material UI, Bootstrap and CSS`,
     ButtonName: "Resume !",
     ButtonIconFontAwesome: "fas fa-download mr-2",
     ButtonSite:"/img/CV_Simon_Selvadurai.pdf"
